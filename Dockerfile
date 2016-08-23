@@ -1,3 +1,3 @@
-FROM kernsuite/base:dev
-RUN docker-apt-install presto
+FROM kernsuite/base:1
+RUN docker-apt-install presto python-presto
 
