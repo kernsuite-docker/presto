@@ -1,4 +1,4 @@
-DOCKER_REPO=kernsuite/presto:dev
+DOCKER_REPO=kernsuite/presto:1
 
 .PHONY: build clean run
 
